@@ -1,6 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/WallaceDee/WallaceDee/blob/main/banner.gif?raw=true" />
-
+<img src="https://github.com/WallaceDee/WallaceDee/blob/main/banner.gif?raw=true" width="320"/>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-FCD400?logo=javascript&logoColor=fff&style=flat-square" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-2D79C7?logo=typescript&logoColor=fff&style=flat-square" alt="TypeScript">
